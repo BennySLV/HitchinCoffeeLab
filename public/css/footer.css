@@ -3,3 +3,11 @@
 	max-width: auto;
 	max-height: auto;
 }
+
+.panel-footer {
+	background-color: rgba(0, 0, 0, 0.91);
+	color: white;
+	padding: 5px;
+	max-width: auto;
+	max-height: auto;
+}

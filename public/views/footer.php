@@ -12,6 +12,9 @@
 
 	<!-- Latest compiled JavaScript for Bootstrap -->
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" type="text/css" href="css/footer.css" />
 </head>
 <body>
 	<div class="container">
@@ -31,6 +34,6 @@
 				</div>		
 			</div>							
 		</div> <!-- End of .panel panel-footer -->
-	</div>
+	</div><!-- End of .container -->
 </body>
 </html>
