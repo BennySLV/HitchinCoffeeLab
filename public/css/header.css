@@ -1,0 +1,36 @@
+.page-header {
+	background-color: rgba(0, 0, 0, 0.91);
+	padding: 5px;
+	max-width: auto;
+	max-height: auto;
+}
+
+#slogan {
+	float: right;
+	font-weight: bold;
+	font-family: Courier New;
+	font-size: 24px;
+	color: white;
+}
+
+#tagline {
+	font-weight: bold;
+	font-family: Courier New;
+	font-size: 18px;
+	color: white;
+}
+
+#menu {
+	float: right;
+	font-family: Courier New;
+}
+
+#menu a {
+	color: white;
+	font-size: 18px;
+}
+
+#menu a:hover {
+	font-weight: bold;
+	text-decoration: none;
+}
