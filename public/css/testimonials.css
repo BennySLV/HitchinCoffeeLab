@@ -1,0 +1,6 @@
+/* Import main.css file */
+@import 'main.css';
+
+#testimonials-link {
+	font-weight: bold;
+}
