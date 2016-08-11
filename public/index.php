@@ -13,7 +13,7 @@
 		<div class="jumbotron">
 			<div class="row">
 				<div class="col-sm-6">
-					<h1>Welcome!</h1>
+					<h1>Welcome</h1>
 					<p>You've reached the site of Hitchin Coffee Lab! Scientifically the best coffee shop in Hitchin (in our minds)!</p>
 					<p>Please do feel free to look around to find out more about the place, where science meets coffee!</p>
 				</div>
