@@ -13,9 +13,3 @@
 .photo-description {
 	padding: 10px;
 }
-
-a:hover {
-	opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-    width: 100%;
-}

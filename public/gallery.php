@@ -20,25 +20,19 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="photo" id="photo-1">
-						<a href="#" target="_blank">
-							<img src="images/two-coffees(2).jpg" />
-						</a> 
+						<img src="images/two-coffees(2).jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>	
 				</div><!-- End of first photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-2">
-						<a href="#" target="_blank">
-							<img src="images/interior_2.jpg" />
-						</a>
+						<img src="images/interior_2.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div><!-- End of second photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-3">
-						<a href="#" target="_blank">
-							<img src="images/donut.jpg" />
-						</a>
+						<img src="images/donut.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div> <!-- End of third photo -->
@@ -47,25 +41,19 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="photo" id="photo-4">
-						<a href="#" target="_blank">
-							<img src="images/cakes.jpg" />
-						</a>
+						<img src="images/cakes.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>	
 				</div><!-- End of fourth photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-5">
-						<a href="#" target="_blank">
-							<img src="images/blending.jpg" />
-						</a>
+						<img src="images/blending.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div><!-- End of fifth photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-6">
-						<a href="#" target="_blank">
-							<img src="images/pictures.jpg" />
-						</a>
+						<img src="images/pictures.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div> <!-- End of sixth photo -->
@@ -74,25 +62,19 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="photo" id="photo-7">
-						<a href="#" target="_blank">
-							<img src="images/lobby.jpg" />
-						</a>
+						<img src="images/lobby.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>	
 				</div><!-- End of seventh photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-8">
-						<a href="#" target="_blank">
-							<img src="images/training.jpg" />
-						</a>
+						<img src="images/training.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div><!-- End of eigth photo -->
 				<div class="col-sm-4">
 					<div class="photo" id="photo-9">
-						<a href="#" target="_blank">
-							<img src="images/art.jpg" />
-						</a>
+						<img src="images/art.jpg" />
 						<div class="photo-description">Photo description</div>
 					</div>
 				</div> <!-- End of ninth photo -->
