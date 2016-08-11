@@ -13,7 +13,7 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<h1>About Us</h1>
-					<p>Hitchin Coffee Lab started in January 2016 and since it's inception, we have seen many satisfied customers!</p> 
+					<p>Hitchin Coffee Lab started in January 2016 and since its inception, we have seen many satisfied customers!</p> 
 					<h2>What "the science behind hot drinks" really means</h2>
 					<p>We are a friendly, passionate and dedicated to one thing - coffee (oh and cake too)! Through extensive (scientific) research, we find the best blend of coffee to whet your appetite and satisfy those taste-buds.</p>
 					<p>We take huge pride in providing a high-quality service for all of our customers! When you enter Hitchin Coffee Lab, you will be greeted and treated like no other coffee shop before!</p>
