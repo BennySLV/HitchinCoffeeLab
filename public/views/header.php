@@ -20,7 +20,7 @@
 	<div class="page-header">
 		<div class="row">
 			<div class="col-sm-6">
-				<a href="index.php"><img src="images/logo.jpg" /></a><br /><br />
+				<a id="logo" href="index.php"><img src="images/logo.jpg" /></a><br /><br />
 				<span id="tagline">The Science of Hot Drinks</span>
 			</div>
 			<div class="col-sm-6">
@@ -33,8 +33,8 @@
 					<a id="home-link" href="index.php">Home</a>
 					<a id="about-link" href="about.php">About</a>
 					<a id="product-menu-link" href="#">Menu</a>
-					<a id="gallery-link" href="#">Gallery</a>
-					<a id="testimonials-link" href="#">Testimonials</a>
+					<a id="gallery-link" href="gallery.php">Gallery</a>
+					<a id="testimonials-link" href="testimonials.php">Testimonials</a>
 					<a id="contact-link" href="contact.php">Contact</a>
 				</nav>
 			</div>
