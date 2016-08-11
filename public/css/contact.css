@@ -1,0 +1,23 @@
+/* Import main.css file */
+@import 'main.css';
+
+#contact-link {
+	font-weight: bold;
+}
+
+#contact-form {
+	width: 100%;
+	max-height: auto;
+	max-width: auto;
+}
+
+#close-button {
+	float: right;
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
+}
+
+#send-button {
+	float: right;
+}
