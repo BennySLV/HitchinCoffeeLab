@@ -1,0 +1,16 @@
+/* Import main.css file */
+@import 'main.css';
+
+#about-link {
+	font-weight: bold;
+}
+
+#founders-pic-1 {
+	float: right;
+	margin-top: 30px;
+}
+
+#founders-pic-2 {
+	float: right;
+	margin-top: 80px;
+}
