@@ -1,0 +1,6 @@
+/* Import main.css file */
+@import 'main.css';
+
+#home-link {
+	font-weight: bold;
+}
