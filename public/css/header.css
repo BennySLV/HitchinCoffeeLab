@@ -26,6 +26,7 @@
 #menu {
 	float: right;
 	font-family: Courier New;
+	display: inline;
 }
 
 #menu a {
@@ -36,4 +37,8 @@
 #menu a:hover {
 	font-weight: bold;
 	text-decoration: none;
+}
+
+#product-menu-link:hover .product-dropdown {
+	display: block;
 }

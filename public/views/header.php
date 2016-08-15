@@ -32,7 +32,7 @@
 				<nav id="menu">
 					<a id="home-link" href="index.php">Home</a>
 					<a id="about-link" href="about.php">About</a>
-					<a id="product-menu-link" href="#">Menu</a>
+					<a id="product-menu-link" href="menu.php">Menu</a>
 					<a id="gallery-link" href="gallery.php">Gallery</a>
 					<a id="testimonials-link" href="testimonials.php">Testimonials</a>
 					<a id="contact-link" href="contact.php">Contact</a>

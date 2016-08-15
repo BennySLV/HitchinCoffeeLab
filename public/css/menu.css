@@ -1,0 +1,6 @@
+/* Import main.css file */
+@import 'main.css';
+
+#product-menu-link {
+	font-weight: bold;
+}
