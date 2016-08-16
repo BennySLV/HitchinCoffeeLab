@@ -5,19 +5,61 @@
 	font-weight: bold;
 }
 
+#opening-hours {
+	width: 300px;
+	height: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#contact-form-button {
+    background-color: #6F4E37;
+    border-radius: 10px;
+    color: white;
+    width: 495px;
+    height: 40px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
 #contact-form {
 	width: 100%;
 	max-height: auto;
 	max-width: auto;
 }
 
-#close-button {
-	float: right;
-	width: 100px;
-	height: 30px;
-	font-size: 14px;
+.fa-check {
+	color: rgba(95, 216, 14, 0.7);
+}
+
+.fa-times {
+	color: rgba(226, 19, 19, 0.7);
+}
+
+.validation-pass {
+	border-radius: 2px;
+	font-size: 12px;
+	background-color: rgba(95, 216, 14, 0.7);
+	padding: 2px;
+}
+
+.validation-fail {
+	border-radius: 2px;
+	font-size: 12px;
+	background-color: rgba(226, 19, 19, 0.7);
+	padding: 2px;
+}
+
+#form-close-button {
+	float: left;
 }
 
 #send-button {
 	float: right;
+}
+
+#map-directions {
+	/* Responsive Design */
+	max-width: 100%;
+	max-height: 100%;
 }
