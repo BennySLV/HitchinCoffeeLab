@@ -18,10 +18,10 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="images/food-menu.png" />
+					<img id="food-menu" src="images/food-menu.png" />
 				</div>
 				<div class="col-sm-6">
-					<img src="images/drink-menu.png" />
+					<img id="drink-menu" src="images/drink-menu.png" />
 				</div>
 			</div>			
 		</div> <!-- End of .jumbotron -->

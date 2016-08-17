@@ -13,3 +13,98 @@
 .photo-description {
 	padding: 10px;
 }
+
+/* Responsive Design */
+
+/* Small desktop*/
+@media screen and (max-width: 1040px) {
+	.photo {
+    	display: inline-block;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: 10px;
+	}
+
+	img {
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+	}
+}
+
+/* Tablet landscape orientation */
+@media screen and (max-width: 960px) {
+    .photo {
+    	display: inline;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: 10px;
+	}
+
+	img {
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+	}
+}
+
+/* Tablet portrait orientation */
+@media screen and (max-width: 800px) {
+    .photo {
+    	display: inline-block;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: 10px;
+	}
+
+	img {
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+	}
+}
+
+/* Smartphone landscape orientation */
+@media screen and (max-width: 768px) {
+    .photo {
+    	display: block;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: 10px;
+	}
+
+	img {
+		width: 100%
+		height: 100%;
+	}
+}
+
+/* Smartphone portrait orientation */
+@media screen and (max-width: 500px) {  
+	.photo {
+		display: block;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: 10px;
+	}
+
+	img {
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 100%;
+	}
+}

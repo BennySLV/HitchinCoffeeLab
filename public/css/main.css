@@ -27,9 +27,9 @@ img {
     box-shadow: 3px 3px 3px black;
 }
 
-
 table, thead, th, tr, td {
     max-width: 100%;
+    max-height: 100%;
     padding: 10px;
     border: 1px solid black;
 }
@@ -41,23 +41,42 @@ form {
     padding: 10px;
 }
 
-button, input[type="submit"] {
+button, #contact-form-button, #reset-button, #form-close-button, input[type="submit"] {
+    background-color: #6F4E37;
+    color: white;
     border-radius: 10px;
     box-shadow: 2px 2px 2px black;
-    background-color: #6F4E37;
-    color: white;
+    width: 100px;
+    height: 30px;
 }
 
-button:hover, input[type="submit"]:hover {
-    background-color: white;
-}
-
-#contact-form-button {
-    background-color: #6F4E37;
-    border-radius: 10px;
-    color: white;
+button:hover, #contact-form-button:hover, #reset-button:hover, #form-close-button:hover, input[type="submit"]:hover {
+    background-color: rgba(240, 240, 240, 0.6);
+    color: black;
 }
 
 #coffee-lab-exterior {
     float: right;
+}
+
+/* Responsive Design */
+
+/* Tablet landscape orientation */
+@media screen and (max-width: 1040px) {
+    
+}
+
+/* Tablet portrait orientation */
+@media screen and (max-width: 800px) {
+    
+}
+
+/* Smartphone landscape orientation */
+@media screen and (max-width: 768px) {
+    
+}
+
+/* Smartphone portrait orientation */
+@media screen and (max-width: 500px) {  
+    
 }

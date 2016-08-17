@@ -20,7 +20,7 @@
 	<div class="page-header">
 		<div class="row">
 			<div class="col-sm-6">
-				<a id="logo" href="index.php"><img src="images/logo.jpg" /></a><br /><br />
+				<a href="index.php"><img id="logo" src="images/logo.jpg" /></a><br /><br />
 				<span id="tagline">The Science of Hot Drinks</span>
 			</div>
 			<div class="col-sm-6">
