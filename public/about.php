@@ -15,9 +15,10 @@
 					<h1>About Us</h1>
 					<p>Hitchin Coffee Lab started in January 2016 and since its inception, we have seen many satisfied customers!</p> 
 					<h2>What "the science behind hot drinks" really means</h2>
-					<p>We are a friendly, passionate and dedicated to one thing - coffee (oh and cake too)! Through extensive (scientific) research, we find the best blend of coffee to whet your appetite and satisfy those taste-buds.</p>
-					<p>We take huge pride in providing a high-quality service for all of our customers! When you enter Hitchin Coffee Lab, you will be greeted and treated like no other coffee shop before!</p>
-					<p>See for yourself! Pop-in for a cuppa anytime!</p>					
+					<p>We are a friendly, passionate and dedicated to one thing - coffee (oh and cake too)! Check out our menus <a href="menu.php">here</a>.</p> 
+					<p>Through extensive (scientific) research, we find the best blend of coffee to whet your appetite and satisfy those taste-buds.</p>
+					<p>We take huge pride in providing a high-quality service for all of our customers! When you enter Hitchin Coffee Lab, you will be greeted and treated like no other coffee shop before! Don't believe us? Check out our <a href="testimonials.php">testimonials</a>.</p>
+					<p>Wanna know more then please don't hesitate to <a href="contact.php">contact</a> us.</p>
 				</div>
 				<div class="col-sm-6">
 					<img id="founders-pic-1" src="images/hitchin_coffee_lab_staff.jpg" /><br />
