@@ -48,19 +48,19 @@
 						</tr>
 					</table><br />
 					<button id="contact-form-button">Alternatively, please click here to use the contact form</button>
-					<form id="contact-form" action="contact.php" method="post" autocomplete="off">
+					<form id="contact-form" action="contact_form_result.php" method="post" autocomplete="off">
 						<fieldset><legend id="form-instructions">Please fill in all fields</legend>			
-							<p><input id="first-name" type="text" name="first_name" placeholder="First Name" /> <span id="first-name-flag"><i aria-hidden="true"></i></span> <span id="first-name-validation"></span></p>
+							<p><input id="first-name" type="text" name="firstName" placeholder="First Name" /> <span id="first-name-flag"><i aria-hidden="true"></i></span> <span id="first-name-validation"></span></p>
 							<p><input id="surname" type="text" name="surname" placeholder="Surname" /> <span id="surname-flag"><i aria-hidden="true"></i></span> <span id="surname-validation"></span></p>
 							<p><input id="email" type="email" name="email" placeholder="Email" /> <span id="email-flag"><i aria-hidden="true"></i></span> <span id="email-validation"></span></p>
-							<p><input id="confirm-email" type="email" name="confirm_email" placeholder="Confirm Email" /> <span id="confirm-email-flag"><i aria-hidden="true"></i></span> <span id="confirm-email-validation"></span></p>
-							<p><textarea id="message" placeholder="Message..." rows="5" cols="19"></textarea> <span id="message-flag"><i aria-hidden="true"></i></span> <span id="message-validation"></span></p>
+							<p><input id="confirm-email" type="email" name="confirmEmail" placeholder="Confirm Email" /> <span id="confirm-email-flag"><i aria-hidden="true"></i></span> <span id="confirm-email-validation"></span></p>
+							<p><textarea id="message" name="message" placeholder="Message..." rows="5" cols="19"></textarea> <span id="message-flag"><i aria-hidden="true"></i></span> <span id="message-validation"></span></p>
 							<button id="reset-button" name="resetButton" value="Reset">Reset</button><br /><br />
 							<input id="send-button" type="submit" name="submit" value="Send" />
 							<button id="form-close-button">X Close</button>
 						</fieldset>
 					</form>					
-				</div><!-- End of .row -->
+				</div><!-- End of .row -->				
 			</div><br />
 			<div class="row">
 				<div class="col-sm-12">					
